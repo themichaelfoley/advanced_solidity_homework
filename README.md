@@ -2,9 +2,9 @@
 
 # Unit 21: Martian Token Crowdsale
 
-View the Crowdsale code [Here](https://github.com/themichaelfoley/advanced_solidity_homework/blob/main/Starter_Code/KaseiCoinCrowdsale.sol)
+View the Crowdsale code [Here](https://github.com/themichaelfoley/advanced_solidity_homework/blob/main/Kasei_Code/KaseiCoinCrowdsale.sol)
 
-View the Coin code [Here](https://github.com/themichaelfoley/advanced_solidity_homework/blob/main/Starter_Code/KaseiCoin.sol)
+View the Coin code [Here](https://github.com/themichaelfoley/advanced_solidity_homework/blob/main/Kasei_Code/KaseiCoin.sol)
 
 ![alt=""](Images/application-image.png)
 
